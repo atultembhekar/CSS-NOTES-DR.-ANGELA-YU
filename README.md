@@ -1,4 +1,3 @@
-
 # CSS-NOTES-DR.-ANGELA-YU
 ![css imp](https://user-images.githubusercontent.com/127327717/233793613-126c09ee-9e86-49ff-afa3-c49f68b2b091.JPG)
 ![1](https://user-images.githubusercontent.com/127327717/233793639-ecaafaa9-16c9-47eb-b5ff-d6d57e553c12.jpg)
@@ -14,3 +13,7 @@
 ![11](https://user-images.githubusercontent.com/127327717/234084109-404577a1-f48c-4fd6-a01a-3e5089e84c74.jpg)
 ![12](https://user-images.githubusercontent.com/127327717/234084149-717075ec-3b49-40a4-b834-06e1991fea31.jpg)
 ![13](https://user-images.githubusercontent.com/127327717/234084210-5e78cd4f-6ef3-40cc-ae5f-d65a115b8d6c.jpg)
+![14](https://user-images.githubusercontent.com/127327717/234367288-af47f498-cee8-4b66-aa6f-dd4e8d2f2063.jpg)
+![15](https://user-images.githubusercontent.com/127327717/234367316-b0f48ff1-e409-4b02-a0d8-0412ff0d1be0.jpg)
+![16](https://user-images.githubusercontent.com/127327717/234367332-37cadcb1-10e0-4beb-8b1b-4d4c2b60e921.jpg)
+![17](https://user-images.githubusercontent.com/127327717/234367348-3e0ed634-06cb-49ee-ba8a-47c55b5b9624.jpg)
