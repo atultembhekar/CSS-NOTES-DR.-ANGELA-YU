@@ -1,6 +1,3 @@
-![37](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/164d4c95-1487-4b31-953e-6beb1a978aad)
-![36](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/391fd7c8-0eec-44d3-9222-f98b0e9842ca)
-
 # CSS-NOTES-DR.-ANGELA-YU
 ![css imp](https://user-images.githubusercontent.com/127327717/233793613-126c09ee-9e86-49ff-afa3-c49f68b2b091.JPG)
 ![1](https://user-images.githubusercontent.com/127327717/233793639-ecaafaa9-16c9-47eb-b5ff-d6d57e553c12.jpg)
@@ -12,8 +9,6 @@
 ![7](https://user-images.githubusercontent.com/127327717/234083642-d08ebf08-5c8f-4cfb-bb30-4783d9163fdb.jpg)
 ![8](https://user-images.githubusercontent.com/127327717/234083805-ec6dc3b0-a2fd-4c80-996e-ac62272e164b.jpg)
 ![9](https://user-images.githubusercontent.com/127327717/234083952-0ffb4145-5a42-4675-aff0-74fb815c5922.jpg)
-![38](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/32742d4f-9ba3-4409-8c67-2d9fa8eb9412)
-
 ![10](https://user-images.githubusercontent.com/127327717/234084046-108be3ca-8306-4c5a-903a-a14b58198984.jpg)
 ![11](https://user-images.githubusercontent.com/127327717/234084109-404577a1-f48c-4fd6-a01a-3e5089e84c74.jpg)
 ![12](https://user-images.githubusercontent.com/127327717/234084149-717075ec-3b49-40a4-b834-06e1991fea31.jpg)
@@ -40,3 +35,7 @@
 ![33](https://user-images.githubusercontent.com/127327717/236622229-d3f66c06-2d27-4fa9-a2bc-df071adfa5bb.jpg)
 ![34](https://user-images.githubusercontent.com/127327717/236718840-906f3c20-7cd1-4954-b8d0-c8ea0da6792d.jpg)
 ![35](https://user-images.githubusercontent.com/127327717/236719205-f83d1e1d-8f98-46e2-80f5-612351ea93d7.jpg)
+![36](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/391fd7c8-0eec-44d3-9222-f98b0e9842ca)
+![37](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/164d4c95-1487-4b31-953e-6beb1a978aad)
+![38](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/32742d4f-9ba3-4409-8c67-2d9fa8eb9412)
+![39](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/97b79ef4-5527-4de4-804c-b1bec572e9d3)
