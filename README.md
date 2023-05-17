@@ -49,3 +49,4 @@
 ![47](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/e4b1dffd-e076-47f7-bdb5-7a9a772add2c)
 ![48](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/66b1ff01-ffd8-4c57-9289-43ef7ce1bdaf)
 ![49](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/a44f9f8f-f410-477d-aabc-bd3a744348e8)
+![50](https://github.com/atultembhekar/CSS-NOTES-DR.-ANGELA-YU/assets/127327717/2713c273-2e8e-4e58-a204-642c9faad45f)
