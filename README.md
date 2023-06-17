@@ -80,3 +80,4 @@
 ![78](https://github.com/atultembhekar/CSS-NOTES-HANDWRITTEN/assets/127327717/c331e7b6-59e6-412e-8e36-c6a8d9534d4c)
 ![79](https://github.com/atultembhekar/CSS-NOTES-HANDWRITTEN/assets/127327717/04a69f2e-2d6a-4aff-b468-a59dac06d729)
 ![80](https://github.com/atultembhekar/CSS-NOTES-HANDWRITTEN/assets/127327717/cba2769b-4611-49d0-825d-99cf25711360)
+![81](https://github.com/atultembhekar/CSS-NOTES-HANDWRITTEN/assets/127327717/e8de2db0-52ab-4184-a884-e027a538aa0e)
